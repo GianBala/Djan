@@ -1,0 +1,18 @@
+1 - Adicionar à fila de commit -> git add (Arquivos)
+2 - Retirar da fila de commit -> git resotre --staged (Arquivos)
+3 - Dar Commit -> git commit (Arquivo) -m "(Mensagem)"
+4 - Dar upload para a nuvem -> git push
+5 - Mostrar status do repositorio -> git status
+6 - Criar um Branch -> git checkout -b (branch)
+7 - Trocar de Branch -> git checkout (branch)
+8 - Ver Branchs -> git branch -a
+9 - Deletar um Branch Localmente - git branch -d (branch)
+10 - Deletar um Branch Remoto -> git push origin --delete (branch)
+11 - Puxar atualizações do repositorio remoto -> git pull
+12 - Mostrar histórico de mudanças -> git log
+13 - Mostrar mudanças entre commits -> git diff
+14 - Mostrar histórico de mudanças -> git log
+15 - Ver Configurações do Git -> git config --list
+16 - Criar um Repositório -> git init
+17 - Resgatar dados do repositório remoto (outras brenchs) -> git fetch
+18 - Criar um branch remoto para associa-lo à um novo branch local -> git push --u (nome branch)
