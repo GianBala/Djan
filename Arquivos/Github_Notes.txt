@@ -1,5 +1,5 @@
 1 - Adicionar à fila de commit -> git add (Arquivos)
-2 - Retirar da fila de commit -> git resotre --staged (Arquivos)
+2 - Retirar da fila de commit -> git restore --staged (Arquivos)
 3 - Dar Commit -> git commit (Arquivo) -m "(Mensagem)"
 4 - Dar upload para a nuvem -> git push
 5 - Mostrar status do repositorio -> git status
