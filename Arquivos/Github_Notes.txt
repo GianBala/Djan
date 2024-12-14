@@ -14,5 +14,5 @@
 14 - Mostrar histórico de mudanças -> git log
 15 - Ver Configurações do Git -> git config --list
 16 - Criar um Repositório -> git init
-17 - Resgatar dados do repositório remoto (outras brenchs) -> git fetch
+17 - Resgatar dados do repositório remoto/atualizar dados para pull e atualizar brenchs -> git fetch
 18 - Criar um branch remoto para associa-lo à um novo branch local -> git push --u (nome branch)
